@@ -9,8 +9,9 @@ It uses CPU NumPy, synthetic examples, and independently testable numerical
 contracts. It does not contain or claim to reproduce the paper's training
 pipeline, checkpoints, datasets, benchmark results, or runtime measurements.
 
-中文说明：这是依据当前论文 Method 与 Algorithm 1 整理的独立选择器参考实现，
-不是原始实验训练器。公开包不包含训练路径、个人账号、集群启动脚本或实验产物。
+This standalone selector reference follows the paper's Method and Algorithm 1;
+it is not the original experiment trainer. The public release excludes training
+paths, personal accounts, cluster launch scripts, and experiment artifacts.
 
 ## Quick start
 
