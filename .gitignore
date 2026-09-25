@@ -1,0 +1,64 @@
+# Python caches and local tooling
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+
+# Historical and temporary files
+*.bak*
+*.log
+*.tmp
+*.temp
+*.swp
+*~
+
+# Data and generated experiment artifacts
+/data/
+/datasets/
+/models/
+/model_overlays/
+/checkpoints/
+/global_step_*/
+/output*/
+/outputs*/
+/runtime*/
+/wandb/
+/ray_results/
+/.ray/
+
+# Model and optimizer payloads
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.gguf
+
+# Archives and platform files
+*.tar
+*.tar.gz
+*.tgz
+*.zip
+.DS_Store
+Thumbs.db
+
+# Private configuration and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+credentials*.json
+secrets*.json
+secrets*.yaml
+.ssh/
+.aws/
+/public-release/

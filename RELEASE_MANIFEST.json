@@ -1,0 +1,55 @@
+{
+  "format_version": 1,
+  "release_kind": "paper-aligned-selector-reference",
+  "git_history_included": false,
+  "files": [
+    {
+      "file": ".gitattributes",
+      "sha256": "c3636e8d2dfd5324452df6c2bd560711af6abef1a6e7d7b157eff64481285bbb"
+    },
+    {
+      "file": ".gitignore",
+      "sha256": "b5879266b6b7074ead19a9193697e01993ccd34e2ffc788f5e52e015741ddb4f"
+    },
+    {
+      "file": "CODE_MANIFEST.md",
+      "sha256": "c2dde55b70fa125076648c317d2fcb0610af0bfd1ead57d036a09045e030adef"
+    },
+    {
+      "file": "README.md",
+      "sha256": "b52d619704a3510e76575c0c2242b8ac7dca65f30113e1f8dce56f556681dcc1"
+    },
+    {
+      "file": "docs/INTEGRATION.md",
+      "sha256": "1dff033ab542d5c436fc3872a81c0e498c06cf1880788a966cb410dc37c4bdd5"
+    },
+    {
+      "file": "docs/PAPER_ALIGNMENT.md",
+      "sha256": "6b055dbf1e0adb27af8d58191c2dd8d7691a3c276a86914877840d3c0f129b23"
+    },
+    {
+      "file": "examples/selector_demo.py",
+      "sha256": "c68a18150d7641728361f8541787318ed853bb2da94fd0fda0c3553a1a51363d"
+    },
+    {
+      "file": "requirements.txt",
+      "sha256": "d4fd08a4db9421419e47c58bc20a3c9a77804d7e58b862ad00dc858147f37bea"
+    },
+    {
+      "file": "taylormix.py",
+      "sha256": "3cc81e8a2717ddcbef606583df17029e4ed0044cf8b47f9c1c394c3d43968228"
+    },
+    {
+      "file": "tests/test_paper_selector.py",
+      "sha256": "bdaa883da73885ebe161da07322ba5e8338d0c6e249b4b14b0eef40e99293dc2"
+    },
+    {
+      "file": "tests/test_public_release.py",
+      "sha256": "45ba8f3ddcbc9fbff142f145fa88b9fe7f8dfb8583300b5859f8be82adde444e"
+    },
+    {
+      "file": "tools/public_release.py",
+      "sha256": "fa745c99a92726609581f281d46deb6aba0cc6e0d8e7d2d09d8d82a56a7042c1"
+    }
+  ]
+}
